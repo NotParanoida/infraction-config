@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "template": {
+    "Level": 0,
+    "DiedBefore": false,
+    "Currency": {
+      "Cash": 10000000000000000,
+      "Continuum": 10000000000000000
+    },
+    "BoughtGamemodes": []
+  }
+}
