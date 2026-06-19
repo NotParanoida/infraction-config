@@ -7,6 +7,8 @@
       "Cash": 10000000000000000,
       "Continuum": 10000000000000000
     },
-    "BoughtGamemodes": []
+    "Purchases": {
+      "Gamemodes": []
+    }
   }
 }
